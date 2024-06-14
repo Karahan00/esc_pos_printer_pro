@@ -78,7 +78,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "81cdfe916ca83f32ca6f8bccb2363e539e2dbfcc"
+      resolved-ref: "2e32ef1ee3dc8b15e181febbaf755e70fc0826ea"
       url: "https://github.com/Karahan00/esc_pos_utils_pro.git"
     source: git
     version: "1.0.0"
