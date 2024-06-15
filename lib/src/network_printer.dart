@@ -9,7 +9,7 @@
 import 'dart:io';
 import 'dart:typed_data' show Uint8List;
 import 'package:esc_pos_utils_pro/esc_pos_utils_pro.dart';
-import 'package:image_v3/image_v3.dart';
+import 'package:image/image.dart';
 import './enums.dart';
 
 /// Network Printer
