@@ -78,7 +78,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "2e32ef1ee3dc8b15e181febbaf755e70fc0826ea"
+      resolved-ref: d606677df263e6f1c0018c3ff0d3865e952d8160
       url: "https://github.com/Karahan00/esc_pos_utils_pro.git"
     source: git
     version: "1.0.0"
@@ -128,18 +128,10 @@ packages:
     dependency: "direct main"
     description:
       name: image
-      sha256: "8e9d133755c3e84c73288363e6343157c383a0c6c56fc51afcc5d4d7180306d6"
+      sha256: a72242c9a0ffb65d03de1b7113bc4e189686fc07c7147b8b41811d0dd0e0d9bf
       url: "https://pub.dev"
     source: hosted
-    version: "3.3.0"
-  image_v3:
-    dependency: transitive
-    description:
-      name: image_v3
-      sha256: dd9f790f2397dd243a74e606a57780e03e2fb67f372baf587e7780c37bd0258d
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.3.0"
+    version: "4.0.17"
   leak_tracker:
     dependency: transitive
     description:
